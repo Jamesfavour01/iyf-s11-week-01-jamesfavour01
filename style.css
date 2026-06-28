@@ -1,0 +1,22 @@
+header {
+    background: #df1414;
+    color: rgb(226, 216, 216);
+    padding: 20px;
+}
+
+nav a {
+    color: rgb(233, 215, 215);
+    text-decoration: none;
+    margin-right: 15px;
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    background: #cc9292;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
